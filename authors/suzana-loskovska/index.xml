@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suzana Loskovska | Boban Joksimoski</title>
+    <link>https://joksim.github.io/authors/suzana-loskovska/</link>
+      <atom:link href="https://joksim.github.io/authors/suzana-loskovska/index.xml" rel="self" type="application/rss+xml" />
+    <description>Suzana Loskovska</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 23 Feb 2020 00:34:49 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Suzana Loskovska</title>
+      <link>https://joksim.github.io/authors/suzana-loskovska/</link>
+    </image>
+    
+    <item>
+      <title>An Application for Maintaining Optical Networks</title>
+      <link>https://joksim.github.io/publication/joksimoskiapplicationmaintaining/</link>
+      <pubDate>Sun, 23 Feb 2020 00:34:49 +0000</pubDate>
+      <guid>https://joksim.github.io/publication/joksimoskiapplicationmaintaining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Application for Maintaining Optical Networks</title>
+      <link>https://joksim.github.io/publication/joksimoskiapplication/</link>
+      <pubDate>Sun, 23 Feb 2020 00:28:40 +0000</pubDate>
+      <guid>https://joksim.github.io/publication/joksimoskiapplication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overview of Modern File Systems</title>
+      <link>https://joksim.github.io/publication/joksimoski-2010-overview/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/publication/joksimoski-2010-overview/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

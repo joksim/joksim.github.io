@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Boban Joksimoski</title>
+    <link>https://joksim.github.io/authors/</link>
+      <atom:link href="https://joksim.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 23 Feb 2020 00:34:49 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Authors</title>
+      <link>https://joksim.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>Boban Joksimoski</title>
+      <link>https://joksim.github.io/authors/boban-joksimoski/</link>
+      <pubDate>Sun, 23 Feb 2020 00:34:49 +0000</pubDate>
+      <guid>https://joksim.github.io/authors/boban-joksimoski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ivan Chorbev</title>
+      <link>https://joksim.github.io/authors/ivan-chorbev/</link>
+      <pubDate>Sun, 23 Feb 2020 00:34:49 +0000</pubDate>
+      <guid>https://joksim.github.io/authors/ivan-chorbev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suzana Loskovska</title>
+      <link>https://joksim.github.io/authors/suzana-loskovska/</link>
+      <pubDate>Sun, 23 Feb 2020 00:34:49 +0000</pubDate>
+      <guid>https://joksim.github.io/authors/suzana-loskovska/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aleksandar Stojmenski</title>
+      <link>https://joksim.github.io/authors/aleksandar-stojmenski/</link>
+      <pubDate>Sun, 23 Feb 2020 00:28:40 +0000</pubDate>
+      <guid>https://joksim.github.io/authors/aleksandar-stojmenski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atanas Krangov</title>
+      <link>https://joksim.github.io/authors/atanas-krangov/</link>
+      <pubDate>Sun, 23 Feb 2020 00:28:40 +0000</pubDate>
+      <guid>https://joksim.github.io/authors/atanas-krangov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dejan Konevski</title>
+      <link>https://joksim.github.io/authors/dejan-konevski/</link>
+      <pubDate>Sun, 23 Feb 2020 00:28:40 +0000</pubDate>
+      <guid>https://joksim.github.io/authors/dejan-konevski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dragan Mihajlov</title>
+      <link>https://joksim.github.io/authors/dragan-mihajlov/</link>
+      <pubDate>Sun, 23 Feb 2020 00:28:40 +0000</pubDate>
+      <guid>https://joksim.github.io/authors/dragan-mihajlov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ilija Jolevski</title>
+      <link>https://joksim.github.io/authors/ilija-jolevski/</link>
+      <pubDate>Sun, 23 Feb 2020 00:28:40 +0000</pubDate>
+      <guid>https://joksim.github.io/authors/ilija-jolevski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomislav Lazarevski</title>
+      <link>https://joksim.github.io/authors/tomislav-lazarevski/</link>
+      <pubDate>Sun, 23 Feb 2020 00:28:40 +0000</pubDate>
+      <guid>https://joksim.github.io/authors/tomislav-lazarevski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simona Tudjarova</title>
+      <link>https://joksim.github.io/authors/simona-tudjarova/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/authors/simona-tudjarova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katerina Zdravkova</title>
+      <link>https://joksim.github.io/authors/katerina-zdravkova/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/authors/katerina-zdravkova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vladimir Trajkovikj</title>
+      <link>https://joksim.github.io/authors/vladimir-trajkovikj/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/authors/vladimir-trajkovikj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I Corbev</title>
+      <link>https://joksim.github.io/authors/i-corbev/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/authors/i-corbev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Petre Lameski</title>
+      <link>https://joksim.github.io/authors/petre-lameski/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/authors/petre-lameski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slavco Stojmenski</title>
+      <link>https://joksim.github.io/authors/slavco-stojmenski/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/authors/slavco-stojmenski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vlatko Nikolovski</title>
+      <link>https://joksim.github.io/authors/vlatko-nikolovski/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/authors/vlatko-nikolovski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marin Nikolovski</title>
+      <link>https://joksim.github.io/authors/marin-nikolovski/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/authors/marin-nikolovski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://joksim.github.io/authors/joksim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/authors/joksim/</guid>
+      <description>&lt;p&gt;Boban Joksimoski is a teaching and research assistant at the Faciulty of Computer Science and Engineering. His research interests include software engineering, computer graphics &amp;amp; animation and assistive technologies.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

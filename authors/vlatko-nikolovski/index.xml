@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vlatko Nikolovski | Boban Joksimoski</title>
+    <link>https://joksim.github.io/authors/vlatko-nikolovski/</link>
+      <atom:link href="https://joksim.github.io/authors/vlatko-nikolovski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vlatko Nikolovski</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Vlatko Nikolovski</title>
+      <link>https://joksim.github.io/authors/vlatko-nikolovski/</link>
+    </image>
+    
+    <item>
+      <title>Cloud Based Assistive Technologies and Smart Living Environment System</title>
+      <link>https://joksim.github.io/publication/nikolovski-2014-cloud/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/publication/nikolovski-2014-cloud/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

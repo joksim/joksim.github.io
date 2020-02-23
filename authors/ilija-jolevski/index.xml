@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ilija Jolevski | Boban Joksimoski</title>
+    <link>https://joksim.github.io/authors/ilija-jolevski/</link>
+      <atom:link href="https://joksim.github.io/authors/ilija-jolevski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ilija Jolevski</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 23 Feb 2020 00:28:40 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Ilija Jolevski</title>
+      <link>https://joksim.github.io/authors/ilija-jolevski/</link>
+    </image>
+    
+    <item>
+      <title>System for Management, Visualization and Maintenance of Infrastructural Resources</title>
+      <link>https://joksim.github.io/publication/joksimoskisystem/</link>
+      <pubDate>Sun, 23 Feb 2020 00:28:40 +0000</pubDate>
+      <guid>https://joksim.github.io/publication/joksimoskisystem/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

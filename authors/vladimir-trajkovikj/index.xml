@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vladimir Trajkovikj | Boban Joksimoski</title>
+    <link>https://joksim.github.io/authors/vladimir-trajkovikj/</link>
+      <atom:link href="https://joksim.github.io/authors/vladimir-trajkovikj/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vladimir Trajkovikj</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Vladimir Trajkovikj</title>
+      <link>https://joksim.github.io/authors/vladimir-trajkovikj/</link>
+    </image>
+    
+    <item>
+      <title>Smart home environment aimed for people with physical disabilities</title>
+      <link>https://joksim.github.io/publication/stojmenski-2016-smart/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/publication/stojmenski-2016-smart/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | Boban Joksimoski</title>
+    <link>https://joksim.github.io/publication_types/6/</link>
+      <atom:link href="https://joksim.github.io/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>6</title>
+      <link>https://joksim.github.io/publication_types/6/</link>
+    </image>
+    
+    <item>
+      <title>Toward 3D Avatar Visualization of Macedonian Sign Language</title>
+      <link>https://joksim.github.io/publication/joksimoski-2016-toward/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/publication/joksimoski-2016-toward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integrated system for e-medicine (e-health, telemedicine and medical expert systems)</title>
+      <link>https://joksim.github.io/publication/chorbev-2010-integrated/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/publication/chorbev-2010-integrated/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
