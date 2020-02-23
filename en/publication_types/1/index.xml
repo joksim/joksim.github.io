@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Boban Joksimoski</title>
+    <link>https://joksim.github.io/en/publication_types/1/</link>
+      <atom:link href="https://joksim.github.io/en/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>1</title>
+      <link>https://joksim.github.io/en/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Software Quality Metrics While Using Different Development Methodologies</title>
+      <link>https://joksim.github.io/en/publication/tudjarova-2017-software/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/en/publication/tudjarova-2017-software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart home environment aimed for people with physical disabilities</title>
+      <link>https://joksim.github.io/en/publication/stojmenski-2016-smart/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/en/publication/stojmenski-2016-smart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Printing Assistive Devices</title>
+      <link>https://joksim.github.io/en/publication/stojmenski-20143-d/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/en/publication/stojmenski-20143-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Based Assistive Technologies and Smart Living Environment System</title>
+      <link>https://joksim.github.io/en/publication/nikolovski-2014-cloud/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/en/publication/nikolovski-2014-cloud/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

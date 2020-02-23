@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boban Joksimoski</title>
+    <link>https://joksim.github.io/mk/</link>
+      <atom:link href="https://joksim.github.io/mk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Boban Joksimoski</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>mk</language><copyright>© 2020</copyright><lastBuildDate>Sun, 23 Feb 2020 00:34:49 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Boban Joksimoski</title>
+      <link>https://joksim.github.io/mk/</link>
+    </image>
+    
+    <item>
+      <title>An Application for Maintaining Optical Networks</title>
+      <link>https://joksim.github.io/mk/publication/joksimoskiapplicationmaintaining/</link>
+      <pubDate>Sun, 23 Feb 2020 00:34:49 +0000</pubDate>
+      <guid>https://joksim.github.io/mk/publication/joksimoskiapplicationmaintaining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Application for Maintaining Optical Networks</title>
+      <link>https://joksim.github.io/mk/publication/joksimoskiapplication/</link>
+      <pubDate>Sun, 23 Feb 2020 00:28:40 +0000</pubDate>
+      <guid>https://joksim.github.io/mk/publication/joksimoskiapplication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of modern programming techniques for rapid web application development</title>
+      <link>https://joksim.github.io/mk/publication/krangovcomparison/</link>
+      <pubDate>Sun, 23 Feb 2020 00:28:40 +0000</pubDate>
+      <guid>https://joksim.github.io/mk/publication/krangovcomparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efforts in using 3d printing and scanning in medicine</title>
+      <link>https://joksim.github.io/mk/publication/stojmenskiefforts/</link>
+      <pubDate>Sun, 23 Feb 2020 00:28:40 +0000</pubDate>
+      <guid>https://joksim.github.io/mk/publication/stojmenskiefforts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System for Management, Visualization and Maintenance of Infrastructural Resources</title>
+      <link>https://joksim.github.io/mk/publication/joksimoskisystem/</link>
+      <pubDate>Sun, 23 Feb 2020 00:28:40 +0000</pubDate>
+      <guid>https://joksim.github.io/mk/publication/joksimoskisystem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Animation</title>
+      <link>https://joksim.github.io/mk/teaching/computer-animation/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/mk/teaching/computer-animation/</guid>
+      <description>&lt;h1 id=&#34;basic-information&#34;&gt;Basic information&lt;/h1&gt;
+&lt;h2 id=&#34;course-codes&#34;&gt;Course code(s)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;CSES806&lt;/code&gt;&lt;/strong&gt; - for undergraduate studies from 2013 until 2017&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;F18L3S113&lt;/code&gt;&lt;/strong&gt; - for undergraduate studies from 2018&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Computer Graphics (&lt;code&gt;F18L2S114&lt;/code&gt;)&lt;/em&gt; &lt;strong&gt;or&lt;/strong&gt; &lt;em&gt;Human-computer interaction design (&lt;code&gt;F18L3S010&lt;/code&gt;)&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;course-overview&#34;&gt;Course overview&lt;/h2&gt;
+&lt;p&gt;Computer animation is a design-oriented course that introduces the basics of general purpose 3D software (
+&lt;a href=&#34;https://www.autodesk.com/products/maya/overview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Autodesk Maya 🔗&lt;/a&gt;).&lt;/p&gt;
+&lt;h1 id=&#34;instructor-information&#34;&gt;Instructor information&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;professor:&lt;/strong&gt; 
+&lt;a href=&#34;https://finki.ukim.mk/en/staff/ivan-chorbev&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ivan Chorbev, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;teaching assistant:&lt;/strong&gt; 
+&lt;a href=&#34;https://finki.ukim.mk/en/staff/boban-joksimoski&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Boban Joksimoski, MSc&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;course-goals&#34;&gt;Course goals&lt;/h1&gt;
+&lt;h1 id=&#34;course-structure&#34;&gt;Course structure&lt;/h1&gt;
+&lt;h1 id=&#34;course-policies&#34;&gt;Course policies&lt;/h1&gt;
+&lt;h1 id=&#34;grading-and-assessments&#34;&gt;Grading and assessments&lt;/h1&gt;
+&lt;h1 id=&#34;course-materials&#34;&gt;Course materials&lt;/h1&gt;
+&lt;h1 id=&#34;course-schedule&#34;&gt;Course schedule&lt;/h1&gt;
+&lt;p&gt;Add your &lt;em&gt;content&lt;/em&gt; here&amp;hellip;&lt;/p&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://calendar.google.com/calendar/embed?src=boban.joksimoski%40gmail.com&amp;amp;ctz=Europe%2FBelgrade&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Календар на активности</title>
+      <link>https://joksim.github.io/mk/office-hours/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/mk/office-hours/</guid>
+      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://calendar.google.com/calendar/embed?src=boban.joksimoski%40gmail.com&amp;amp;ctz=Europe%2FBelgrade&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software Quality Metrics While Using Different Development Methodologies</title>
+      <link>https://joksim.github.io/mk/publication/tudjarova-2017-software/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/mk/publication/tudjarova-2017-software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart home environment aimed for people with physical disabilities</title>
+      <link>https://joksim.github.io/mk/publication/stojmenski-2016-smart/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/mk/publication/stojmenski-2016-smart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward 3D Avatar Visualization of Macedonian Sign Language</title>
+      <link>https://joksim.github.io/mk/publication/joksimoski-2016-toward/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/mk/publication/joksimoski-2016-toward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Printing Assistive Devices</title>
+      <link>https://joksim.github.io/mk/publication/stojmenski-20143-d/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/mk/publication/stojmenski-20143-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Based Assistive Technologies and Smart Living Environment System</title>
+      <link>https://joksim.github.io/mk/publication/nikolovski-2014-cloud/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/mk/publication/nikolovski-2014-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter in the cloud of education</title>
+      <link>https://joksim.github.io/mk/publication/zdravkova-2014-peter/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/mk/publication/zdravkova-2014-peter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SA Tabu Miner: A hybrid heuristic algorithm for rule induction</title>
+      <link>https://joksim.github.io/mk/publication/chorbev-2012-sa/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/mk/publication/chorbev-2012-sa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning System Based On Digital Games</title>
+      <link>https://joksim.github.io/mk/publication/nikolovski-2011-learning/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/mk/publication/nikolovski-2011-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integrated system for e-medicine (e-health, telemedicine and medical expert systems)</title>
+      <link>https://joksim.github.io/mk/publication/chorbev-2010-integrated/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/mk/publication/chorbev-2010-integrated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overview of Modern File Systems</title>
+      <link>https://joksim.github.io/mk/publication/joksimoski-2010-overview/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/mk/publication/joksimoski-2010-overview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Animation</title>
+      <link>https://joksim.github.io/mk/teaching/aaa_computer-animation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/mk/teaching/aaa_computer-animation/</guid>
+      <description>
+&lt;h2 id=&#34;headline-1&#34;&gt;
+Teachers
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+professor: Ivan Chorbev
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+teaching assistant: Boban Joksimoski
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;headline-2&#34;&gt;
+Course goals:
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Basics of Computer animationОснови на компјутерска анимација
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Learning and use of a 3D software (Autodesk Maya) for making computer animations
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;headline-3&#34;&gt;
+Prerequisites:
+&lt;/h2&gt;
+&lt;p&gt;
+&lt;strong&gt;За упис на предметот без положено компјутерска графика, потребна е молба и потпис од професорот на предметот.&lt;/strong&gt;
+&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;
+Основи на компјутерска графика/Компјутерска графика
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;headline-4&#34;&gt;
+Course structure
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;
+Вовед, историја и преглед на областа
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Генерален вовед во софтверската алатка Autodesk Maya и запознавање на интерфејсот.
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Моделирање на објекти во Maya преку употреба на полигонална и NURBS геометрија.
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Анимирање на тела
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Деформирање и ригување
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Програмирање и скриптање во Maya
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Сенчање и осветлување
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+UV координати и текстурурање
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Камера, рендерирање и композитирање
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+подетални информации се дадени на следниот &lt;a href=&#34;http://finki.ukim.mk/Content/contentFiles/studies_menustructure/Predmeti/Dodiplomski/finki2.0/Kompjuterska_animacija.pdf&#34;&gt;документ&lt;/a&gt;.
+&lt;/p&gt;
+&lt;h2 id=&#34;headline-5&#34;&gt;
+Соработка со индустријата
+&lt;/h2&gt;
+&lt;p&gt;
+Курсот е развиен во соработка со компанијата &lt;a href=&#34;http://www.fx3x.com&#34;&gt;FX3X&lt;/a&gt; и во текот на курсот се врши посета на компанијата. 
+&lt;/p&gt;
+&lt;h2 id=&#34;headline-6&#34;&gt;
+Начин на полагање
+&lt;/h2&gt;
+&lt;dl&gt;
+&lt;dt&gt;
+лабораториски вежби - 20%
+&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;
+лабораториските вежби се оценуваат преку присуствот и активност на студентите
+&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt&gt;
+домашни работи - 20%
+&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;
+во текот на семестарот ќе бидат зададени 2 домашни работи, секоја од нив носи по 10%
+&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt&gt;
+полагање
+&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;
+колоквиум или испит - 20%
+&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt&gt;
+завршен проект - 40%
+&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;
+во координација со наставниците, се одредува завршен проект кој студентот треба да го изработи за да го положи курсот.
+&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

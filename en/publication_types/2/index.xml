@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Boban Joksimoski</title>
+    <link>https://joksim.github.io/en/publication_types/2/</link>
+      <atom:link href="https://joksim.github.io/en/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 23 Feb 2020 00:34:49 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>2</title>
+      <link>https://joksim.github.io/en/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>An Application for Maintaining Optical Networks</title>
+      <link>https://joksim.github.io/en/publication/joksimoskiapplicationmaintaining/</link>
+      <pubDate>Sun, 23 Feb 2020 00:34:49 +0000</pubDate>
+      <guid>https://joksim.github.io/en/publication/joksimoskiapplicationmaintaining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Application for Maintaining Optical Networks</title>
+      <link>https://joksim.github.io/en/publication/joksimoskiapplication/</link>
+      <pubDate>Sun, 23 Feb 2020 00:28:40 +0000</pubDate>
+      <guid>https://joksim.github.io/en/publication/joksimoskiapplication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of modern programming techniques for rapid web application development</title>
+      <link>https://joksim.github.io/en/publication/krangovcomparison/</link>
+      <pubDate>Sun, 23 Feb 2020 00:28:40 +0000</pubDate>
+      <guid>https://joksim.github.io/en/publication/krangovcomparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efforts in using 3d printing and scanning in medicine</title>
+      <link>https://joksim.github.io/en/publication/stojmenskiefforts/</link>
+      <pubDate>Sun, 23 Feb 2020 00:28:40 +0000</pubDate>
+      <guid>https://joksim.github.io/en/publication/stojmenskiefforts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System for Management, Visualization and Maintenance of Infrastructural Resources</title>
+      <link>https://joksim.github.io/en/publication/joksimoskisystem/</link>
+      <pubDate>Sun, 23 Feb 2020 00:28:40 +0000</pubDate>
+      <guid>https://joksim.github.io/en/publication/joksimoskisystem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter in the cloud of education</title>
+      <link>https://joksim.github.io/en/publication/zdravkova-2014-peter/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/en/publication/zdravkova-2014-peter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SA Tabu Miner: A hybrid heuristic algorithm for rule induction</title>
+      <link>https://joksim.github.io/en/publication/chorbev-2012-sa/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/en/publication/chorbev-2012-sa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning System Based On Digital Games</title>
+      <link>https://joksim.github.io/en/publication/nikolovski-2011-learning/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/en/publication/nikolovski-2011-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overview of Modern File Systems</title>
+      <link>https://joksim.github.io/en/publication/joksimoski-2010-overview/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/en/publication/joksimoski-2010-overview/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

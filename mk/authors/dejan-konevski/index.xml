@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dejan Konevski | Boban Joksimoski</title>
+    <link>https://joksim.github.io/mk/authors/dejan-konevski/</link>
+      <atom:link href="https://joksim.github.io/mk/authors/dejan-konevski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dejan Konevski</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>mk</language><copyright>© 2020</copyright><lastBuildDate>Sun, 23 Feb 2020 00:28:40 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Dejan Konevski</title>
+      <link>https://joksim.github.io/mk/authors/dejan-konevski/</link>
+    </image>
+    
+    <item>
+      <title>System for Management, Visualization and Maintenance of Infrastructural Resources</title>
+      <link>https://joksim.github.io/mk/publication/joksimoskisystem/</link>
+      <pubDate>Sun, 23 Feb 2020 00:28:40 +0000</pubDate>
+      <guid>https://joksim.github.io/mk/publication/joksimoskisystem/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

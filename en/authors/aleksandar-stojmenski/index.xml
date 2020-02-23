@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aleksandar Stojmenski | Boban Joksimoski</title>
+    <link>https://joksim.github.io/en/authors/aleksandar-stojmenski/</link>
+      <atom:link href="https://joksim.github.io/en/authors/aleksandar-stojmenski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aleksandar Stojmenski</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 23 Feb 2020 00:28:40 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Aleksandar Stojmenski</title>
+      <link>https://joksim.github.io/en/authors/aleksandar-stojmenski/</link>
+    </image>
+    
+    <item>
+      <title>Comparison of modern programming techniques for rapid web application development</title>
+      <link>https://joksim.github.io/en/publication/krangovcomparison/</link>
+      <pubDate>Sun, 23 Feb 2020 00:28:40 +0000</pubDate>
+      <guid>https://joksim.github.io/en/publication/krangovcomparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efforts in using 3d printing and scanning in medicine</title>
+      <link>https://joksim.github.io/en/publication/stojmenskiefforts/</link>
+      <pubDate>Sun, 23 Feb 2020 00:28:40 +0000</pubDate>
+      <guid>https://joksim.github.io/en/publication/stojmenskiefforts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart home environment aimed for people with physical disabilities</title>
+      <link>https://joksim.github.io/en/publication/stojmenski-2016-smart/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/en/publication/stojmenski-2016-smart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Printing Assistive Devices</title>
+      <link>https://joksim.github.io/en/publication/stojmenski-20143-d/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/en/publication/stojmenski-20143-d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

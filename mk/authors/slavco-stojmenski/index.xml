@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slavco Stojmenski | Boban Joksimoski</title>
+    <link>https://joksim.github.io/mk/authors/slavco-stojmenski/</link>
+      <atom:link href="https://joksim.github.io/mk/authors/slavco-stojmenski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Slavco Stojmenski</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>mk</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Slavco Stojmenski</title>
+      <link>https://joksim.github.io/mk/authors/slavco-stojmenski/</link>
+    </image>
+    
+    <item>
+      <title>3D Printing Assistive Devices</title>
+      <link>https://joksim.github.io/mk/publication/stojmenski-20143-d/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/mk/publication/stojmenski-20143-d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

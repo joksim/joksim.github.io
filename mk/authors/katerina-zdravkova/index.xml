@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katerina Zdravkova | Boban Joksimoski</title>
+    <link>https://joksim.github.io/mk/authors/katerina-zdravkova/</link>
+      <atom:link href="https://joksim.github.io/mk/authors/katerina-zdravkova/index.xml" rel="self" type="application/rss+xml" />
+    <description>Katerina Zdravkova</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>mk</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Katerina Zdravkova</title>
+      <link>https://joksim.github.io/mk/authors/katerina-zdravkova/</link>
+    </image>
+    
+    <item>
+      <title>Toward 3D Avatar Visualization of Macedonian Sign Language</title>
+      <link>https://joksim.github.io/mk/publication/joksimoski-2016-toward/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/mk/publication/joksimoski-2016-toward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter in the cloud of education</title>
+      <link>https://joksim.github.io/mk/publication/zdravkova-2014-peter/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/mk/publication/zdravkova-2014-peter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
