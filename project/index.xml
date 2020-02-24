@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Boban Joksimoski</title>
+    <link>https://joksim.github.io/project/</link>
+      <atom:link href="https://joksim.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 23 Feb 2020 15:31:15 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Projects</title>
+      <link>https://joksim.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>3D Historic visualization</title>
+      <link>https://joksim.github.io/project/historic-visualization/</link>
+      <pubDate>Sun, 23 Feb 2020 15:31:15 +0100</pubDate>
+      <guid>https://joksim.github.io/project/historic-visualization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

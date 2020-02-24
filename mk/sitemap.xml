@@ -288,36 +288,6 @@
   </url>
   
   <url>
-    <loc>https://joksim.github.io/mk/teaching/computer-animation/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://joksim.github.io/teaching/computer-animation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="mk"
-                href="https://joksim.github.io/mk/teaching/computer-animation/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://joksim.github.io/mk/teaching/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://joksim.github.io/teaching/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="mk"
-                href="https://joksim.github.io/mk/teaching/"
-                />
-  </url>
-  
-  <url>
     <loc>https://joksim.github.io/mk/calendar/</loc>
     <lastmod>2020-02-20T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -677,15 +647,19 @@
   
   <url>
     <loc>https://joksim.github.io/mk/teaching/aaa_computer-animation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://joksim.github.io/mk/teaching/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/teaching/aaa_computer-animation/"
+                href="https://joksim.github.io/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="mk"
-                href="https://joksim.github.io/mk/teaching/aaa_computer-animation/"
+                href="https://joksim.github.io/mk/teaching/"
                 />
   </url>
   
