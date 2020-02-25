@@ -26,8 +26,7 @@
 &lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Computer Graphics (&lt;code&gt;F18L2S114&lt;/code&gt;)&lt;/em&gt; &lt;strong&gt;or&lt;/strong&gt; &lt;em&gt;Human-computer interaction design (&lt;code&gt;F18L3S010&lt;/code&gt;)&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;course-overview&#34;&gt;Course overview&lt;/h2&gt;
-&lt;p&gt;Computer animation is a design-oriented course that introduces the basics of general purpose 3D software (
-&lt;a href=&#34;https://www.autodesk.com/products/maya/overview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Autodesk Maya 🔗&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Computer animation is a design-oriented course that introduces the basics of general purpose 3D software.&lt;/p&gt;
 &lt;h1 id=&#34;instructor-information&#34;&gt;Instructor information&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;professor:&lt;/strong&gt; 
@@ -37,21 +36,29 @@
 &lt;/ul&gt;
 &lt;h1 id=&#34;course-goals&#34;&gt;Course goals&lt;/h1&gt;
 &lt;p&gt;The course is an introduction into computer animation. It teaches basic techniques for creating 3D computer animations.&lt;/p&gt;
+&lt;h1 id=&#34;technical-requirements-and-software&#34;&gt;Technical requirements and software&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;A computer with good performance is desirable. Preferably with a good discrete GPU (&lt;em&gt;NVidia&lt;/em&gt; or &lt;em&gt;AMD&lt;/em&gt;).&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.autodesk.com/products/maya/overview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Autodesk Maya&lt;/a&gt; - preferred 3D software, an industry standard. To obtain in for learning purposes, please apply for a student account on the official Autodesk site 
+&lt;a href=&#34;https://www.autodesk.com/education/free-software/maya&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;course-structure&#34;&gt;Course structure&lt;/h1&gt;
 &lt;p&gt;The lectures and exercises and thought together, in an interactive way. The laboratory exercises are on a weekly basis.&lt;/p&gt;
 &lt;p&gt;The syllabus is structured as follows:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Introduction, history and overview of the field.&lt;/li&gt;
-&lt;li&gt;Introduction to the 3D environment (Autodesk Maya), basic concepts and interface overview.&lt;/li&gt;
+&lt;li&gt;Introduction to the 3D environment, basic concepts and interface overview.&lt;/li&gt;
 &lt;li&gt;Concepts of 3D modeling. Polygonal, NURBS and subdivision modeling. UV coordinates.&lt;/li&gt;
 &lt;li&gt;Deformations and rigging.&lt;/li&gt;
 &lt;li&gt;Animation.&lt;/li&gt;
 &lt;li&gt;Materials and textures.&lt;/li&gt;
 &lt;li&gt;Lightning and camera.&lt;/li&gt;
 &lt;li&gt;Rendering and compositing&lt;/li&gt;
-&lt;li&gt;Intro to scripting and the 3D pipeline.&lt;/li&gt;
+&lt;li&gt;Scripting and the 3D pipeline.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;The full syllabus is available at: &lt;a href=&#34;https://finki.ukim.mk/sites/default/files/kompjuterska_animacija.pdf&#34;&gt;https://finki.ukim.mk/sites/default/files/kompjuterska_animacija.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The full syllabus is available at: 
+&lt;a href=&#34;https://finki.ukim.mk/sites/default/files/kompjuterska_animacija.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://finki.ukim.mk/sites/default/files/kompjuterska_animacija.pdf&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;grading-and-assessments&#34;&gt;Grading and assessments&lt;/h1&gt;
 &lt;p&gt;The course is oriented towards independent working. You must attend the
 laboratory exercises to be able to complete the course. Only &lt;strong&gt;one absence&lt;/strong&gt;
@@ -60,20 +67,33 @@ from the laboratory exercises is tolerated.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;laboratory exercises (20%)&lt;/strong&gt; - presented weekly.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;homework assignments (20%)&lt;/strong&gt; - 2 homeworks during the semester.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1st partial exam (20%)&lt;/strong&gt; - done once in the middle of the semester.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;project work (40%)&lt;/strong&gt; - agreed with the teachers. It can be finished in one
-of the three seesions. Accordingly there is a 10% point penalty for each
-following session:
+&lt;li&gt;&lt;strong&gt;midterm (1&lt;sup&gt;st&lt;/sup&gt; partial) exam (20%)&lt;/strong&gt; - done once in the middle of the semester.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;project work (40%)&lt;/strong&gt; - agreed with the teachers. It can be submitted in one of the three exam sessions. Accordingly there is a penalty for each following session:
 &lt;ul&gt;
-&lt;li&gt;up to 100% if finished in the 1&lt;sup&gt;st&lt;/sup&gt; exam session (June/July)&lt;/li&gt;
-&lt;li&gt;up to 90% if finished in the 2&lt;sup&gt;nd&lt;/sup&gt; exam session (August/September)&lt;/li&gt;
-&lt;li&gt;up to 80% if finished in the 3&lt;sup&gt;rd&lt;/sup&gt; exam session (January/February)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;up to 100%&lt;/em&gt; if finished in the 1&lt;sup&gt;st&lt;/sup&gt; exam session (June/July). Translates up to 40% percent of the total points.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;up to 90%&lt;/em&gt; if finished in the 2&lt;sup&gt;nd&lt;/sup&gt; exam session (August/September). Translates up to 36% of the total points.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;up to 75%&lt;/em&gt; if finished in the 3&lt;sup&gt;rd&lt;/sup&gt; exam session (January/February). Translates up to 30% of the total points.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;The project is &lt;strong&gt;mandatory&lt;/strong&gt; and students can not pass the course without submitting it.&lt;/p&gt;
 &lt;h1 id=&#34;course-materials&#34;&gt;Course materials&lt;/h1&gt;
-&lt;p&gt;Available on the faculty 
-&lt;a href=&#34;http://courses.finki.ukim.mk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;moodle&lt;/a&gt; instance.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Available on the faculty 
+&lt;a href=&#34;http://courses.finki.ukim.mk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;moodle&lt;/a&gt; instance.&lt;/li&gt;
+&lt;li&gt;Laboratory exercises are available at the 
+&lt;a href=&#34;https://www.youtube.com/channel/UCF_k1eyn5hrUpOZJHqMDUrA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube channel&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;recomended-reading&#34;&gt;Recomended reading&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Computer Animation: algorithms and techniquies (3&lt;sup&gt;rd&lt;/sup&gt; edition)&lt;/strong&gt; - &lt;em&gt;Rick Perent&lt;/em&gt;
+(
+&lt;a href=&#34;https://www.amazon.com/Computer-Animation-Algorithms-Rick-Parent/dp/0124158420/ref=sr_1_1?keywords=Computer&amp;#43;animation%3A&amp;#43;algorithms&amp;#43;and&amp;#43;techniques&amp;amp;qid=1582583510&amp;amp;s=books&amp;amp;sr=1-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Real-Time Rendering (4&lt;sup&gt;th&lt;/sup&gt; edition)&lt;/strong&gt; by &lt;em&gt;Tomas Akenine-Möller, Eric Haines, Naty Hoffman, Angelo Pesce, Michał Iwanicki,&lt;/em&gt; and &lt;em&gt;Sébastien Hillaire&lt;/em&gt; (
+&lt;a href=&#34;https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-M%C3%B6ller/dp/1138627003?tag=realtimerenderin&amp;amp;pldnSite=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Animator&amp;rsquo;s Survival Kit: A Manual of Methods, Principles and Formulas for Classical, Computer, Games, Stop Motion and Internet Animators&lt;/strong&gt; by  &lt;em&gt;Richard Williams&lt;/em&gt; (
+&lt;a href=&#34;https://www.amazon.com/Animators-Survival-Kit-Principles-Classical/dp/086547897X&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;amazon&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
