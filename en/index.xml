@@ -62,10 +62,7 @@
 &lt;p&gt;Доколку не Ви одговорам во рок од 24 часа, тогаш пратете ми ја пораката повторно .&lt;/p&gt;
 &lt;p&gt;Стандардни термини за консултации се објавени на профилот на сајтот на ФИНКИ.&lt;/p&gt;
 &lt;p&gt;Пожелно е пријавување за консултации на сервисот: &lt;a href=&#34;http://konsultacii.finki.ukim.mk/&#34;&gt;http://konsultacii.finki.ukim.mk/&lt;/a&gt;. Најточни информации за консултациите се достапни на google календарот прикажан подолу (календарот се менува дневно и најдобро е да го проверите пред да дојдете во терминот за консултации ).&lt;/p&gt;
-&lt;iframe src=&#34;https://outlook.office365.com/owa/calendar/80ce178aec9f45ea9aab160b5d26646c@finki.ukim.mk/c06dd7b1e4fc405bae35532487aa53225963279134761149095/calendar.html&#34; &gt;&lt;/iframe&gt;
-&lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;https://calendar.google.com/calendar/embed?src=boban.joksimoski%40gmail.com&amp;amp;ctz=Europe%2FBelgrade&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+&lt;iframe src=&#34;https://outlook.office365.com/owa/calendar/80ce178aec9f45ea9aab160b5d26646c@finki.ukim.mk/c06dd7b1e4fc405bae35532487aa53225963279134761149095/calendar.html&#34; loading=&#34;eager&#34; width=&#34;100%&#34; height=&#34;600px&#34; style=&#34;border: none&#34; &gt;&lt;/iframe&gt;
 </description>
     </item>
     
