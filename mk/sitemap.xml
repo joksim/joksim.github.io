@@ -8,7 +8,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/publication_types/2/"
+                href="https://joksim.github.io/en/publication_types/2/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -23,7 +23,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/publication/joksimoskiapplicationmaintaining/"
+                href="https://joksim.github.io/en/publication/joksimoskiapplicationmaintaining/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -38,7 +38,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/authors/"
+                href="https://joksim.github.io/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -53,7 +53,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/authors/boban-joksimoski/"
+                href="https://joksim.github.io/en/authors/boban-joksimoski/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -68,7 +68,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/"
+                href="https://joksim.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -83,7 +83,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/authors/ivan-chorbev/"
+                href="https://joksim.github.io/en/authors/ivan-chorbev/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -98,7 +98,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/publication_types/"
+                href="https://joksim.github.io/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -113,7 +113,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/publication/"
+                href="https://joksim.github.io/en/publication/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -128,7 +128,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/authors/suzana-loskovska/"
+                href="https://joksim.github.io/en/authors/suzana-loskovska/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -143,7 +143,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/authors/aleksandar-stojmenski/"
+                href="https://joksim.github.io/en/authors/aleksandar-stojmenski/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -158,7 +158,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/publication/joksimoskiapplication/"
+                href="https://joksim.github.io/en/publication/joksimoskiapplication/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -173,7 +173,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/authors/atanas-krangov/"
+                href="https://joksim.github.io/en/authors/atanas-krangov/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -188,7 +188,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/publication/krangovcomparison/"
+                href="https://joksim.github.io/en/publication/krangovcomparison/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -203,7 +203,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/authors/dejan-konevski/"
+                href="https://joksim.github.io/en/authors/dejan-konevski/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -218,7 +218,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/authors/dragan-mihajlov/"
+                href="https://joksim.github.io/en/authors/dragan-mihajlov/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -233,7 +233,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/publication/stojmenskiefforts/"
+                href="https://joksim.github.io/en/publication/stojmenskiefforts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -248,7 +248,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/authors/ilija-jolevski/"
+                href="https://joksim.github.io/en/authors/ilija-jolevski/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -263,7 +263,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/publication/joksimoskisystem/"
+                href="https://joksim.github.io/en/publication/joksimoskisystem/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -278,7 +278,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/authors/tomislav-lazarevski/"
+                href="https://joksim.github.io/en/authors/tomislav-lazarevski/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -288,12 +288,42 @@
   </url>
   
   <url>
+    <loc>https://joksim.github.io/mk/teaching/computer-animation/</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://joksim.github.io/en/teaching/computer-animation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="mk"
+                href="https://joksim.github.io/mk/teaching/computer-animation/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://joksim.github.io/mk/teaching/</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://joksim.github.io/en/teaching/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="mk"
+                href="https://joksim.github.io/mk/teaching/"
+                />
+  </url>
+  
+  <url>
     <loc>https://joksim.github.io/mk/calendar/</loc>
     <lastmod>2020-02-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/calendar/"
+                href="https://joksim.github.io/en/calendar/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -308,7 +338,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/office-hours/"
+                href="https://joksim.github.io/en/office-hours/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -323,7 +353,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/publication_types/1/"
+                href="https://joksim.github.io/en/publication_types/1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -338,7 +368,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/authors/simona-tudjarova/"
+                href="https://joksim.github.io/en/authors/simona-tudjarova/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -353,7 +383,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/publication/tudjarova-2017-software/"
+                href="https://joksim.github.io/en/publication/tudjarova-2017-software/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -368,7 +398,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/publication_types/6/"
+                href="https://joksim.github.io/en/publication_types/6/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -383,7 +413,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/authors/katerina-zdravkova/"
+                href="https://joksim.github.io/en/authors/katerina-zdravkova/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -398,7 +428,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/publication/stojmenski-2016-smart/"
+                href="https://joksim.github.io/en/publication/stojmenski-2016-smart/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -413,7 +443,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/publication/joksimoski-2016-toward/"
+                href="https://joksim.github.io/en/publication/joksimoski-2016-toward/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -428,7 +458,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/authors/vladimir-trajkovikj/"
+                href="https://joksim.github.io/en/authors/vladimir-trajkovikj/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -443,7 +473,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/publication/stojmenski-20143-d/"
+                href="https://joksim.github.io/en/publication/stojmenski-20143-d/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -458,7 +488,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/publication/nikolovski-2014-cloud/"
+                href="https://joksim.github.io/en/publication/nikolovski-2014-cloud/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -473,7 +503,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/authors/i-corbev/"
+                href="https://joksim.github.io/en/authors/i-corbev/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -488,7 +518,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/publication/zdravkova-2014-peter/"
+                href="https://joksim.github.io/en/publication/zdravkova-2014-peter/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -503,7 +533,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/authors/petre-lameski/"
+                href="https://joksim.github.io/en/authors/petre-lameski/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -518,7 +548,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/authors/slavco-stojmenski/"
+                href="https://joksim.github.io/en/authors/slavco-stojmenski/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -533,7 +563,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/authors/vlatko-nikolovski/"
+                href="https://joksim.github.io/en/authors/vlatko-nikolovski/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -548,7 +578,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/publication/chorbev-2012-sa/"
+                href="https://joksim.github.io/en/publication/chorbev-2012-sa/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -563,7 +593,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/publication/nikolovski-2011-learning/"
+                href="https://joksim.github.io/en/publication/nikolovski-2011-learning/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -578,7 +608,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/authors/marin-nikolovski/"
+                href="https://joksim.github.io/en/authors/marin-nikolovski/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -593,7 +623,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/publication/chorbev-2010-integrated/"
+                href="https://joksim.github.io/en/publication/chorbev-2010-integrated/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -608,7 +638,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/publication/joksimoski-2010-overview/"
+                href="https://joksim.github.io/en/publication/joksimoski-2010-overview/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -622,7 +652,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/authors/joksim/"
+                href="https://joksim.github.io/en/authors/joksim/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -636,7 +666,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/categories/"
+                href="https://joksim.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -647,19 +677,15 @@
   
   <url>
     <loc>https://joksim.github.io/mk/teaching/aaa_computer-animation/</loc>
-  </url>
-  
-  <url>
-    <loc>https://joksim.github.io/mk/teaching/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/teaching/"
+                href="https://joksim.github.io/en/teaching/aaa_computer-animation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="mk"
-                href="https://joksim.github.io/mk/teaching/"
+                href="https://joksim.github.io/mk/teaching/aaa_computer-animation/"
                 />
   </url>
   
@@ -668,7 +694,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/post/"
+                href="https://joksim.github.io/en/post/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -682,7 +708,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/talk/"
+                href="https://joksim.github.io/en/talk/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -696,7 +722,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://joksim.github.io/tags/"
+                href="https://joksim.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"

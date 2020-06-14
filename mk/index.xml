@@ -53,15 +53,47 @@
     </item>
     
     <item>
+      <title>Computer Animation</title>
+      <link>https://joksim.github.io/mk/teaching/computer-animation/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://joksim.github.io/mk/teaching/computer-animation/</guid>
+      <description>&lt;h1 id=&#34;basic-information&#34;&gt;Basic information&lt;/h1&gt;
+&lt;h2 id=&#34;course-codes&#34;&gt;Course code(s)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;CSES806&lt;/code&gt;&lt;/strong&gt; - for undergraduate studies from 2013 until 2017&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;F18L3S113&lt;/code&gt;&lt;/strong&gt; - for undergraduate studies from 2018&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Computer Graphics (&lt;code&gt;F18L2S114&lt;/code&gt;)&lt;/em&gt; &lt;strong&gt;or&lt;/strong&gt; &lt;em&gt;Human-computer interaction design (&lt;code&gt;F18L3S010&lt;/code&gt;)&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;course-overview&#34;&gt;Course overview&lt;/h2&gt;
+&lt;p&gt;Computer animation is a design-oriented course that introduces the basics of general purpose 3D software (
+&lt;a href=&#34;https://www.autodesk.com/products/maya/overview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Autodesk Maya 🔗&lt;/a&gt;).&lt;/p&gt;
+&lt;h1 id=&#34;instructor-information&#34;&gt;Instructor information&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;professor:&lt;/strong&gt; 
+&lt;a href=&#34;https://finki.ukim.mk/en/staff/ivan-chorbev&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ivan Chorbev, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;teaching assistant:&lt;/strong&gt; 
+&lt;a href=&#34;https://finki.ukim.mk/en/staff/boban-joksimoski&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Boban Joksimoski, MSc&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;course-goals&#34;&gt;Course goals&lt;/h1&gt;
+&lt;h1 id=&#34;course-structure&#34;&gt;Course structure&lt;/h1&gt;
+&lt;h1 id=&#34;course-policies&#34;&gt;Course policies&lt;/h1&gt;
+&lt;h1 id=&#34;grading-and-assessments&#34;&gt;Grading and assessments&lt;/h1&gt;
+&lt;h1 id=&#34;course-materials&#34;&gt;Course materials&lt;/h1&gt;
+&lt;h1 id=&#34;course-schedule&#34;&gt;Course schedule&lt;/h1&gt;
+&lt;p&gt;Add your &lt;em&gt;content&lt;/em&gt; here&amp;hellip;&lt;/p&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://calendar.google.com/calendar/embed?src=boban.joksimoski%40gmail.com&amp;amp;ctz=Europe%2FBelgrade&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Календар на активности</title>
       <link>https://joksim.github.io/mk/office-hours/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://joksim.github.io/mk/office-hours/</guid>
-      <description>&lt;p&gt;Доколку има потреба да ме контактирате дојдете во термините за консултации или испратете ми порака на официјалната e-mail адреса.&lt;/p&gt;
-&lt;p&gt;Доколку не Ви одговорам во рок од 24 часа, тогаш пратете ми ја пораката повторно .&lt;/p&gt;
-&lt;p&gt;Стандардни термини за консултации се објавени на профилот на сајтот на ФИНКИ.&lt;/p&gt;
-&lt;p&gt;Пожелно е пријавување за консултации на сервисот: &lt;a href=&#34;http://konsultacii.finki.ukim.mk/&#34;&gt;http://konsultacii.finki.ukim.mk/&lt;/a&gt;. Најточни информации за консултациите се достапни на google календарот прикажан подолу (календарот се менува дневно и најдобро е да го проверите пред да дојдете во терминот за консултации ).&lt;/p&gt;
-&lt;div class=&#34;responsive-wrap&#34;&gt;
+      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;https://calendar.google.com/calendar/embed?src=boban.joksimoski%40gmail.com&amp;amp;ctz=Europe%2FBelgrade&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
