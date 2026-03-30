@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Примери</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+
+  <body>
+
+<table border="1"> 
+<thead>
+<tr>
+<th class="header c0" style="" scope="col">Input</th>
+<th class="header c1 lastcol" style="" scope="col">Result</th>
+</tr>
+</thead>
+<tbody><tr class="r0">
+<td class="cell c0" style=""><pre class="tablecell">4
+World of Warcraft
+40
+0
+10
+1
+2017</pre></td>
+<td class="cell c1 lastcol" style=""><pre class="tablecell">Testing operator&gt;&gt; for SubscriptionGame
+Game: World of Warcraft, regular price: $40, monthly fee: $10, purchased: 1-2017</pre></td>
+</tr>
+<tr class="r1">
+<td class="cell c0" style=""><pre class="tablecell">1
+Sims
+50
+0</pre></td>
+<td class="cell c1 lastcol" style=""><pre class="tablecell">Testing class Game and operator&lt;&lt; for Game
+Game: Sims, regular price: $50</pre></td>
+</tr>
+<tr class="r0">
+<td class="cell c0" style=""><pre class="tablecell">1
+Half Life
+70
+1</pre></td>
+<td class="cell c1 lastcol" style=""><pre class="tablecell">Testing class Game and operator&lt;&lt; for Game
+Game: Half Life, regular price: $70, bought on sale</pre></td>
+</tr>
+<tr class="r1">
+<td class="cell c0" style=""><pre class="tablecell">3
+Half Life 2
+70
+1</pre></td>
+<td class="cell c1 lastcol" style=""><pre class="tablecell">Testing operator&gt;&gt; for Game
+Game: Half Life 2, regular price: $70, bought on sale</pre></td>
+</tr>
+<tr class="r0">
+<td class="cell c0" style=""><pre class="tablecell">2
+PUBG
+100
+1
+5
+5
+2018</pre></td>
+<td class="cell c1 lastcol" style=""><pre class="tablecell">Testing class SubscriptionGame and operator&lt;&lt; for SubscritionGame
+Game: PUBG, regular price: $100, bought on sale, monthly fee: $5, purchased: 5-2018</pre></td>
+</tr>
+<tr class="r1">
+<td class="cell c0" style=""><pre class="tablecell">7
+BugsBunny
+2
+1
+Half Life 2
+70
+0
+2
+Warcraft 4
+40
+0
+10
+1
+2017</pre></td>
+<td class="cell c1 lastcol" style=""><pre class="tablecell">Testing total_spent method() for User
+
+User: BugsBunny
+- Game: Half Life 2, regular price: $70
+- Game: Warcraft 4, regular price: $40, monthly fee: $10, purchased: 1-2017
+
+Total money spent: $270
+</pre></td>
+</tr>
+<tr class="r0">
+<td class="cell c0" style=""><pre class="tablecell">5
+BugsBunny
+1
+1
+Half Life 2
+70
+0</pre></td>
+<td class="cell c1 lastcol" style=""><pre class="tablecell">Testing class User and operator+= for User
+
+User: BugsBunny
+- Game: Half Life 2, regular price: $70
+</pre></td>
+</tr>
+<tr class="r1">
+<td class="cell c0" style=""><pre class="tablecell">6
+BugsBunny
+3
+1
+Half Life 2
+70
+0
+2
+Warcraft 4
+40
+0
+10
+1
+2017
+1
+Half Life 2
+70
+1</pre></td>
+<td class="cell c1 lastcol" style=""><pre class="tablecell">Testing exception ExistingGame for User
+The game is already in the collection
+
+User: BugsBunny
+- Game: Half Life 2, regular price: $70
+- Game: Warcraft 4, regular price: $40, monthly fee: $10, purchased: 1-2017
+
+</pre></td>
+</tr>
+<tr class="r0">
+<td class="cell c0" style=""><pre class="tablecell">5
+BugsBunny
+2
+1
+Half Life 2
+70
+0
+2
+World od Warcraft
+40
+0
+10
+1
+2017</pre></td>
+<td class="cell c1 lastcol" style=""><pre class="tablecell">Testing class User and operator+= for User
+
+User: BugsBunny
+- Game: Half Life 2, regular price: $70
+- Game: World od Warcraft, regular price: $40, monthly fee: $10, purchased: 1-2017
+
+</pre></td>
+</tr>
+<tr class="r1">
+<td class="cell c0" style=""><pre class="tablecell">7
+DaffyDuck
+1
+2
+Warcraft 4
+40
+0
+10
+4
+2018</pre></td>
+<td class="cell c1 lastcol" style=""><pre class="tablecell">Testing total_spent method() for User
+
+User: DaffyDuck
+- Game: Warcraft 4, regular price: $40, monthly fee: $10, purchased: 4-2018
+
+Total money spent: $50
+</pre></td>
+</tr>
+<tr class="r0">
+<td class="cell c0" style=""><pre class="tablecell">6
+BugsBunny
+2
+1
+Half Life 2
+70
+1
+2
+Warcraft 4
+40
+0
+10
+1
+2017</pre></td>
+<td class="cell c1 lastcol" style=""><pre class="tablecell">Testing exception ExistingGame for User
+
+User: BugsBunny
+- Game: Half Life 2, regular price: $70, bought on sale
+- Game: Warcraft 4, regular price: $40, monthly fee: $10, purchased: 1-2017
+
+</pre></td>
+</tr>
+<tr class="r1 lastrow">
+<td class="cell c0" style=""><pre class="tablecell">2
+World of Warcraft
+40
+0
+10
+1
+2018</pre></td>
+<td class="cell c1 lastcol" style=""><pre class="tablecell">Testing class SubscriptionGame and operator&lt;&lt; for SubscritionGame
+Game: World of Warcraft, regular price: $40, monthly fee: $10, purchased: 1-2018</pre></td>
+</tr>
+</tbody>
+</table>    
+  </body>
+</html>
